@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "UserName": "lizak",
+    "Score": 20,
+    "Quizzes": []
+  },
+  {
+    "Id": 2,
+    "UserName": "janed",
+    "Score": 0,
+    "Quizzes": []
+  },
+  {
+    "Id": 3,
+    "UserName": "test",
+    "Score": 0,
+    "Quizzes": []
+  }
+]

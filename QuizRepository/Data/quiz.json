@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 2,
+    "UserID": 2,
+    "QuizName": "Math",
+    "Questions": []
+  },
+  {
+    "Id": 3,
+    "UserID": 3,
+    "QuizName": "test quiz",
+    "Questions": []
+  }
+]
